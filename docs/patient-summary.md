@@ -1,4 +1,4 @@
-# Patient Clinical Summary — Cardiology Department
+# Patient Clinical Summary — Cardiology 
 
 **Document Type:** Clinical Summary  
 **Department:** Cardiology / Internal Medicine  
